@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: #07588a;
+    margin: 50px;
+    font-family: "Playfair Display", serif;
+    text-decoration: double;
+}
