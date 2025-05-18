@@ -7,3 +7,9 @@ h1{
     font-family: "Playfair Display", serif;
     text-decoration: double;
 }
+
+#p1{
+        background-color: bisque;
+        border: 50px;
+        padding: 30px;
+}
