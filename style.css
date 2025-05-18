@@ -23,3 +23,12 @@
     position: sticky;
     top: 10px;
 }
+
+h1{
+    background-color: #07588a;
+    color: aliceblue;
+}
+h1:hover{
+    background-color: brown;
+    color: aliceblue;
+}
